@@ -39,7 +39,11 @@ Absences should be notified at least one day ahead of time with valid reason. Me
 
 ## Assignments
 
+Assignments will be made evenly through group consensus during meetings. Team members that miss completing assignments should make up the work they missed. If it is a recurring issue, the teacher will be contacted.
+
 ## Participation
+
+A scrum meeting will be held every week. Additionally, team members should remain in contact through the group text. All members should acknowledge all text messages.
 
 ## Meeting times/locations/mediums
 
@@ -47,11 +51,19 @@ Meet at 3:30 on tuesday in engineering building
 
 ## Agenda and Minutes/Notes
 
+A document should be kept that keeps track of the events of each meeting that is updated each time.
+
 ## Promptness
+
+Lateness within reason will be tolerated, provided that notification is given through text message. If communication is clear, it should not be a problem. If it does become a recurring issue, the teacher will be notified.
 
 ## Conversational Courtesies
 
-## Enforcement/ Feedback
+Everyone should display basic courtesy in conversation. Everyone should be given a chance to speak. Meetings can be left open ended to give people time to consider or change their mind on topics without feeling pressured. 
+
+## Enforcement/Feedback
+
+If something becomes an issue, it can be brought up to the group for discussion. If an agreement cannot be reached, the group should hold a vote to come to a decision.
 
 ## Enforcement Responsibilities
 
