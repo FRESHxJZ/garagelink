@@ -25,6 +25,32 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Distracted use of technology
+
+Distracted use of technology for purposes outside the scope of the project is not permitted.
+
+## Decisions
+
+Decisions will be made via consensus between team members
+
+## Attendance
+
+Absences should be notified at least one day ahead of time with valid reason. Members that miss meetings should do what they can to complete any work that they missed on their own before the next meeting or due date. 
+
+## Assignments
+
+## Participation
+
+## Meeting times/locations/mediums
+
+## Agenda and Minutes/Notes
+
+## Promptness
+
+## Conversational Courtesies
+
+## Enforcement/ Feedback
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
