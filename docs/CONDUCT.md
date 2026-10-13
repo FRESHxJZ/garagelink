@@ -43,6 +43,8 @@ Absences should be notified at least one day ahead of time with valid reason. Me
 
 ## Meeting times/locations/mediums
 
+Meet at 3:30 on tuesday in engineering building
+
 ## Agenda and Minutes/Notes
 
 ## Promptness
