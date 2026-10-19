@@ -122,3 +122,5 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+![Ethan Vieira](https://drive.google.com/uc?export=view&id=1FhiVVjDc_bBE4-Xyl_JJ8ZT4h3Pigwpe)
