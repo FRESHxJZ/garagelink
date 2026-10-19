@@ -125,3 +125,4 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 
 ![Ethan Vieira](https://drive.google.com/uc?export=view&id=1FhiVVjDc_bBE4-Xyl_JJ8ZT4h3Pigwpe)
 ![Ben Pacheco] (https://drive.google.com/file/d/1tNYrRoG_VcfdK1ZEBIoEdxMlTMZG-N6A/view?usp=drive_link)
+! [Bryon Garcia] <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/c530bb2a-966c-4533-93a3-f5fdf5cecf4f" />
