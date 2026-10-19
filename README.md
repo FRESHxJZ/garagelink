@@ -1,6 +1,6 @@
-# PartFit
+# GarageLink
 
-PartFit is a car parts marketplace and community app built with Flutter. It helps drivers search for nearby pickup parts, ship-to-you options, junkyard inventory, and a safe automotive community while also supporting selling parts and managing a garage profile.
+GarageLink is a car parts marketplace and community app built with Flutter. It helps drivers search for nearby pickup parts, ship-to-you options, junkyard inventory, and a safe automotive community while also supporting selling parts and managing a garage profile.
 
 ## Features
 
