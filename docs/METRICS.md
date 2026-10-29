@@ -8,31 +8,29 @@ The HEART framework focuses on five critical areas: Happiness, Engagement, Adopt
 
 ## Happiness
 
-Metric 1 - 
+Metric 1 - Net Promoter Score: 
 
-Metric 2 - 
-
-Metric 3 - 
+Metric 2 - Survey Customer Reviews: 
 
 
 
 ## Engagement 
 
-Metric 1 - 
+Metric 1 - Number of feedback responses: 
 
-Metric 2 - 
+Metric 2 - Track the number of uses of AI chat bot:
 
-Metric 3 - 
+Metric 3 - Time spent by users on the app: 
+
+Metric 4 - Click through rate for searching for parts: 
 
 
 
 ## Adoption
 
-Metric 1 - 
+Metric 1 - Download Rate: 
 
-Metric 2 - 
-
-Metric 3 - 
+Metric 2 - Adoption Rate: Firebase (Adoption via authentication signups)
 
 
 
@@ -48,8 +46,12 @@ Metric 3 - Track the number of users who use the community tab
 
 ## Task Success 
 
-Metric 1 - 
+Metric 1 - Reviews
 
-Metric 2 - 
+Metric 2 - Seller Ratings
 
-Metric 3 - 
+Metric 3 - Number of sales
+
+Metric 4 - Track how people found out about the app
+
+Metric 5 - Track number of posts and listings 
