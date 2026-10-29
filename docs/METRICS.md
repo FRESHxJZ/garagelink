@@ -38,11 +38,11 @@ Metric 3 -
 
 ## Retention
 
-Metric 1 - 
+Metric 1 - Retention rate- how many users return over time
 
-Metric 2 - 
+Metric 2 - Daily Active Users - number of unique users each day 
 
-Metric 3 - 
+Metric 3 - Track the number of users who use the community tab
 
 
 
