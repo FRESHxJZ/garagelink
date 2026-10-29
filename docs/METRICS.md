@@ -8,9 +8,15 @@ The HEART framework focuses on five critical areas: Happiness, Engagement, Adopt
 
 ## Happiness
 
-Metric 1 - Net Promoter Score: 
+Metric 1 - Net Promoter Score
+. Have a survey at the bottom that asks the user "On a scale of 0-10 how likely are you to recommend GarageLink"
+. We will store each answer as a collection in Firestore called surveyResponses
+. NPS is calculated: % Promoters (9-10) minus the % Detractors (0-6)
 
 Metric 2 - Survey Customer Reviews: 
+. Similar to the NPS display, we will have an option for users to leave optional comments on our app
+. We will store each answer as a document in Firestore called surveyResponses
+
 
 
 
