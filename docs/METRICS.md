@@ -27,7 +27,7 @@ Metric 4 - Click through rate for searching for parts:
 
 ## Adoption
 
-Metric 1 - Download Rate: 
+Metric 1 - Download Rate: Track using firebase analytics
 
 Metric 2 - Adoption Rate: Firebase (Adoption via authentication signups)
 
