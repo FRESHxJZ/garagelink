@@ -35,11 +35,11 @@ Metric 2 - Adoption Rate: Firebase (Adoption via authentication signups)
 
 ## Retention
 
-Metric 1 - Retention rate- how many users return over time
+Metric 1 - Retention rate: Firebase Analytics (Tracking users who return to the app over time)
 
-Metric 2 - Daily Active Users - number of unique users each day 
+Metric 2 - Daily Active Users: Firebase Analytics (Tracking the number of unique users who use the app daily)
 
-Metric 3 - Track the number of users who use the community tab
+Metric 3 - Number of unique users: Firebase Analytics (Tracking the Number of unique users who visit the Community tab)
 
 
 
