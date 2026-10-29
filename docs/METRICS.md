@@ -16,11 +16,10 @@ Metric 2 - Survey Customer Reviews:
 
 ## Engagement 
 
-Metric 1 - Number of feedback responses: 
+Metric 1 - Number of feedback responses: track using google analytics 
+Metric 2 - Track the number of uses of AI chat bot: 
 
-Metric 2 - Track the number of uses of AI chat bot:
-
-Metric 3 - Time spent by users on the app: 
+Metric 3 - Time spent by users on the app: track using google analytics 
 
 Metric 4 - Click through rate for searching for parts: 
 
