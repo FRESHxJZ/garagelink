@@ -8,7 +8,7 @@ The HEART framework focuses on five critical areas: Happiness, Engagement, Adopt
 
 ## Happiness
 
-Metric 1 - Net Promoter Score: 
+Metric 1 - Net Promoter Score: Create event in analytics 
 
 Metric 2 - Survey Customer Reviews: 
 
