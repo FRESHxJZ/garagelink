@@ -13,17 +13,22 @@ A/B Test Name:  login In 1 button or the old fashion email and password
 
 
 
-## A/B Test Name: 
+## A/B Test Name: Password Requirements Display
 
-## User Story Number:
+## User Story Number: US1 – Account Creation
 
-## Metrics: 
+## Metrics: Adoption Rate: Firebase Authentication (Track the percentage of users who successfully create an account) and Firebase Analytics (Track successful account creations and password validation errors).
 
-## Hypothesis:
+## Hypothesis: Some GarageLink users may struggle to create an account because they don't know the password requirements until they get an error. Displaying the password requirements before users enter their password may reduce errors and make account creation easier. We hypothesize that showing password requirements will increase successful account creations and reduce password errors.
 
-## Experiment:
+## Experiment: We will use Firebase A/B Testing and Remote Config to test two versions of the GarageLink sign-up page. 50% of new users will see Variation A, and 50% will see Variation B. Firebase Analytics will track successful account creations, password validation errors, and the number of users who start the sign-up process. We will compare the results to determine whether displaying password requirements improves account creation.
 
-## Variations: 
+## Variations:
+Variation A – No Password Requirements Display
+Users enter their password without seeing the requirements beforehand. If their password does not meet the requirements, an error message appears.
+Variation B – Password Requirements Display
+Users see the password requirements directly below the password field before entering their password.
+
 
 
 
