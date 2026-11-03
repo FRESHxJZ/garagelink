@@ -34,6 +34,7 @@ Variation B – Password Requirements Display
 Users see the password requirements directly below the password field before entering their password.
 
 
+--
 
 
 ## A/B Test Name: 
@@ -49,31 +50,33 @@ Users see the password requirements directly below the password field before ent
 ## Variations: 
 
 
-## A/B Test Name: 
+# A/B Test Name: Filter Usage Rate (Side Panel or Top Panel)
 
-## User Story Number:
-
-## Metrics: 
-
-## Hypothesis:
-
-## Experiment:
-
-## Variations: 
-
-
-## A/B Test Name: 
-
-## User Story Number:
+## User Story Number: 
+US4 Golden Path 
 
 ## Metrics: 
+Engagement: the filter usage rate which is a combination of how much it is opened and how often the home page is viewed  
 
-## Hypothesis:
+## Hypothesis: 
+The issue is that buyers drop off between the home feed and filtering because the filter is hidden. I believe that testing where the  filter is placed may impact the likliness of the buyer using it. This would lead to more accurate searches and thus more frequent purchases from users.
 
-## Experiment:
+## Experiment: 
+- A Firebase Remote Config Parameter, filterLayout, will split the users 50/50 through firebase A/B testing
 
+- Only users who reach the home page are counted towards this test
+
+- Our hypothesis is that having a filter at the top of the screen with labeled buttons (ie. Price, Condition, Make/Model) will help increase filter usage. Filter placement is the only thing that changes between the two versions.
+  
 ## Variations: 
 
+Variation A: Top Filters
+A row of labeled chips under the search bar (Category, Price, Condition, Make/Model, Distance) that scroll sideways. Tapping on a chip will open that filters options in a bottom sheet.
+
+Version B Side Panel
+One filter icon next to the search bar. By tapping on it, it will slide a panel from the side with every filter listed as well as Apply and Clear buttons.
+
+--
 
 
 User Story Number: US1
