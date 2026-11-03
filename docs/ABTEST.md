@@ -1,20 +1,24 @@
-### A/B Test Name:  login In 1 button or the old fashion email and password
+# One tap login
+US1 - Account Creation
 
-### User Story Number:
+### Metrics
+Primary Metric: Sign-In Conversion Rate. Measure the percentage of users who successfully sign in after viewing the login page. Secondary Metrics: Number of clicks on each sign-in option. Percentage of users who begin the sign-in process but do not complete it. Time it takes users to successfully sign in. Number of users who successfully create an account. These metrics will help determine which login method is easier and more effective for users.
 
-### Metrics: 
+### Hypothesis
+I believe that users will be more likely to sign in using one-tap authentication options, such as Google or Apple, rather than entering their email address and password manually. By providing faster sign-in options, we expect to reduce the effort required to access the app and increase the number of users who successfully sign in.
 
-### Hypothesis:
+### What problem are we trying to solve?
+Users today often expect applications to provide quick and convenient ways to access their accounts. Traditional email and password login requires users to manually enter their credentials, which can take additional time and effort. This extra effort may discourage users from signing in or cause them to abandon the process. For garagelink, we want to make signing in as simple and convenient as possible. By offering one-tap authentication options, we hope to reduce the time users spend logging in and allow them to access the app's features more quickly.
 
-### Experiment:
+### Experiment 
+We will use Firebase A/B Testing and Firebase Analytics to compare two different login page designs Users will be randomly assigned to one of the two variations. Each user will continue to see the same variation during the experiment to ensure a consistent experience. 
 
-### Variations: 
+### Variations
+Traditional Login - The login page will contain: Email address field, Password field, Sign-in button, Sign-up option. This represents the traditional email and password login experience. Variation B — One-Tap Login - The login page will contain: Google sign-in button, Apple sign-in button, Email and password login option, Sign-up option, This variation introduces additional one-tap sign-in options while keeping traditional login available.
 
 ---
 
-### A/B Test Name: Password Requirements Display
-
-### User Story Number
+# Password Requirements Display
 US1 – Account Creation
 
 ### Metrics: Adoption Rate
@@ -37,10 +41,8 @@ Users see the password requirements directly below the password field before ent
 ---
 
 
-### A/B Test Name: Profile Setup – Required or Skip for now
-
-### User Story Number
-US3 (Profile Creation)
+# Profile Setup – Required or Skip for now
+US3 - Profile Creation
 
 ### Metrics
 - Adoption: percent of new sign ups who make it to homepage using Firebase Authentication and Analytics
@@ -61,10 +63,8 @@ New users are forced to fill out their profile as soon as they create an account
 
 ---
 
-### A/B Test Name: Filter Usage Rate (Side Panel or Top Panel)
-
-### User Story Number 
-US4 Golden Path 
+# Filter Usage Rate (Side Panel or Top Panel)
+US4 - Golden Path 
 
 ### Metrics
 Engagement: the filter usage rate which is a combination of how much it is opened and how often the home page is viewed  
@@ -89,21 +89,16 @@ One filter icon next to the search bar. By tapping on it, it will slide a panel 
 
 ---
 
+# [A/B Test Name] 
+US# - 
 
-### User Story Number
-US1
+### Metrics: 
 
-### Metrics
-Primary Metric: Sign-In Conversion Rate. Measure the percentage of users who successfully sign in after viewing the login page. Secondary Metrics: Number of clicks on each sign-in option. Percentage of users who begin the sign-in process but do not complete it. Time it takes users to successfully sign in. Number of users who successfully create an account. These metrics will help determine which login method is easier and more effective for users.
+### Hypothesis:
 
-### Hypothesis
-I believe that users will be more likely to sign in using one-tap authentication options, such as Google or Apple, rather than entering their email address and password manually. By providing faster sign-in options, we expect to reduce the effort required to access the app and increase the number of users who successfully sign in.
+### Experiment:
 
-### What problem are we trying to solve?
-Users today often expect applications to provide quick and convenient ways to access their accounts. Traditional email and password login requires users to manually enter their credentials, which can take additional time and effort. This extra effort may discourage users from signing in or cause them to abandon the process. For garagelink, we want to make signing in as simple and convenient as possible. By offering one-tap authentication options, we hope to reduce the time users spend logging in and allow them to access the app's features more quickly.
+### Variations: 
 
-### Experiment 
-We will use Firebase A/B Testing and Firebase Analytics to compare two different login page designs Users will be randomly assigned to one of the two variations. Each user will continue to see the same variation during the experiment to ensure a consistent experience. 
+---
 
-### Variations
-Traditional Login - The login page will contain: Email address field, Password field, Sign-in button, Sign-up option. This represents the traditional email and password login experience. Variation B — One-Tap Login - The login page will contain: Google sign-in button, Apple sign-in button, Email and password login option, Sign-up option, This variation introduces additional one-tap sign-in options while keeping traditional login available.
