@@ -37,18 +37,28 @@ Users see the password requirements directly below the password field before ent
 --
 
 
-## A/B Test Name: 
+## A/B Test Name: Profile Setup – Required or Skip for now
 
-## User Story Number:
+## User Story Number: 3 (Profile Creation)
 
-## Metrics: 
+## Metrics:
+- Adoption: percent of new sign ups who make it to homepage using Firebase Authentication and Analytics
+- Task Success: percent of new users with a finished profile after a week using Firebase Analytics
 
 ## Hypothesis:
+New users are forced to fill out their profile as soon as they create an account. This is the first thing they see so if it feels like too much, they might close the app and delete. This is where we expect users to drop off and it hurts us because every user we lose is one less person buying or selling parts. If we let new users skip profile setup and come back to it later, more of them will reach the homepage and most will still end up finishing their profile.
 
 ## Experiment:
+- Tool: Firebase A/B Testing with Remote Config that turns the skip button on or off
+- Audience: new users only (current users already have a profile) split 50/50 into two groups
+- Tracking: Firebase Analytics to track how many users skip profile setup, finish their profile (Task Success), and reach the homepage (Adoption)
+- Success: Version B wins if more users reach the homepage and the finished profile rate stays the same after a week
 
-## Variations: 
+## Variations:
+- Version A (current): After sign up users cant leave profile page until name, picture, and car are filled in
+- Version B: same profile page, plus a "Skip for now" under the Save button. Skipping goes to homepage with a small message reminding users to finish profile
 
+--
 
 # A/B Test Name: Filter Usage Rate (Side Panel or Top Panel)
 
