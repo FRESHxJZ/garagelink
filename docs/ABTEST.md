@@ -29,6 +29,7 @@ We will use Firebase A/B Testing and Remote Config to test two versions of the G
 ## Variations:
 Variation A – No Password Requirements Display
 Users enter their password without seeing the requirements beforehand. If their password does not meet the requirements, an error message appears.
+
 Variation B – Password Requirements Display
 Users see the password requirements directly below the password field before entering their password.
 
