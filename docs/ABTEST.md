@@ -1,5 +1,26 @@
+# Password Requirements Display
+US1 – Account Creation
+
+### Metrics
+Adoption Rate: Firebase Authentication (Track the percentage of users who successfully create an account) and Firebase Analytics (Track successful account creations and password validation errors).
+
+### Hypothesis
+Some GarageLink users may struggle to create an account because they don't know the password requirements until they get an error. Displaying the password requirements before users enter their password may reduce errors and make account creation easier. We hypothesize that showing password requirements will increase successful account creations and reduce password errors.
+
+### Experiment
+We will use Firebase A/B Testing and Remote Config to test two versions of the GarageLink sign-up page. 50% of new users will see Variation A, and 50% will see Variation B. Firebase Analytics will track successful account creations, password validation errors, and the number of users who start the sign-up process. We will compare the results to determine whether displaying password requirements improves account creation.
+
+### Variations
+Variation A – No Password Requirements Display
+Users enter their password without seeing the requirements beforehand. If their password does not meet the requirements, an error message appears.
+
+Variation B – Password Requirements Display
+Users see the password requirements directly below the password field before entering their password.
+
+---
+
 # One tap login
-US1 - Account Creation
+US2 - User Login
 
 ### Metrics
 Primary Metric: Sign-In Conversion Rate. Measure the percentage of users who successfully sign in after viewing the login page. Secondary Metrics: Number of clicks on each sign-in option. Percentage of users who begin the sign-in process but do not complete it. Time it takes users to successfully sign in. Number of users who successfully create an account. These metrics will help determine which login method is easier and more effective for users.
@@ -17,29 +38,6 @@ We will use Firebase A/B Testing and Firebase Analytics to compare two different
 Traditional Login - The login page will contain: Email address field, Password field, Sign-in button, Sign-up option. This represents the traditional email and password login experience. Variation B — One-Tap Login - The login page will contain: Google sign-in button, Apple sign-in button, Email and password login option, Sign-up option, This variation introduces additional one-tap sign-in options while keeping traditional login available.
 
 ---
-
-# Password Requirements Display
-US1 – Account Creation
-
-### Metrics: Adoption Rate
-Firebase Authentication (Track the percentage of users who successfully create an account) and Firebase Analytics (Track successful account creations and password validation errors).
-
-### Hypothesis
-Some GarageLink users may struggle to create an account because they don't know the password requirements until they get an error. Displaying the password requirements before users enter their password may reduce errors and make account creation easier. We hypothesize that showing password requirements will increase successful account creations and reduce password errors.
-
-### Experiment
-We will use Firebase A/B Testing and Remote Config to test two versions of the GarageLink sign-up page. 50% of new users will see Variation A, and 50% will see Variation B. Firebase Analytics will track successful account creations, password validation errors, and the number of users who start the sign-up process. We will compare the results to determine whether displaying password requirements improves account creation.
-
-### Variations
-Variation A – No Password Requirements Display
-Users enter their password without seeing the requirements beforehand. If their password does not meet the requirements, an error message appears.
-
-Variation B – Password Requirements Display
-Users see the password requirements directly below the password field before entering their password.
-
-
----
-
 
 # Profile Setup – Required or Skip for now
 US3 - Profile Creation
@@ -89,16 +87,19 @@ One filter icon next to the search bar. By tapping on it, it will slide a panel 
 
 ---
 
-# [A/B Test Name] 
+# Tile item listings on wider monitors instead of one per row
 US# - 
 
-### Metrics: 
+### Metrics
+Engagement: Track how long users scroll through listings and how many listings they interact with
+Retention: Track how frequently users with wider displays return to the app
 
-### Hypothesis:
+### Hypothesis
+The amount of dead space on wider screens may be inconvenient for users, as the information is spread farther apart, and 
 
-### Experiment:
+### Experiment
 
-### Variations: 
+### Variations
 
 ---
 
