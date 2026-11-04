@@ -56,8 +56,8 @@ New users are forced to fill out their profile as soon as they create an account
 - Success: Version B wins if more users reach the homepage and the finished profile rate stays the same after a week
 
 ### Variations
-- Version A (current): After sign up users cant leave profile page until name, picture, and car are filled in
-- Version B: same profile page, plus a "Skip for now" under the Save button. Skipping goes to homepage with a small message reminding users to finish profile
+- Version A (current): After sign up users cant leave profile page until picture, name, username, and car are filled in
+- Version B: same profile page, plus a "Skip for now" under the Save button. Skipping goes straight to the homepage
 
 ---
 
