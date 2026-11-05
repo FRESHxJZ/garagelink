@@ -95,11 +95,16 @@ Engagement: Track how long users scroll through listings and how many listings t
 Retention: Track how frequently users with wider displays return to the app
 
 ### Hypothesis
-The amount of dead space on wider screens may be inconvenient for users, as the information is spread farther apart, and 
+The amount of dead space on wider screens may be inconvenient for users, as the information is spread farther apart, and people spend longer scrolling.
 
 ### Experiment
+A firebase remote config parameter, create two versions of the page, and use analytics to see how fast users navigate to a listing page.
 
 ### Variations
+
+Variation A: One item per row, with details spread to fill screen
+
+Variation B: Multiple items per row, with each individual item n
 
 ---
 
